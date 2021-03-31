@@ -47,7 +47,8 @@ hi! StatusLineNC guibg=#282a2e guifg=white  ctermbg=NONE gui=italic
 " !hi StatusLine guibg=#373b41 guifg=#727072 ctermbg=NONE gui=italic
 " !hi StatusLineNC guibg=#282a2e guifg=#727072  ctermbg=NONE gui=italic
 
-hi! VertSplit      ctermfg=11 ctermbg=11 guifg=#373b41 guibg=#373b41
+" hi! VertSplit      ctermfg=11 ctermbg=11 guifg=#373b41 guibg=#373b41
+hi! VertSplit      guibg=NONE ctermbg=NONE
 hi! ColorColumn    ctermbg=10 guibg=#282a2e
 hi! CursorColumn   ctermbg=10 guibg=#282a2e
 hi! CursorLine     ctermbg=10 guibg=#282a2e
